@@ -1,0 +1,61 @@
+/**************** extend css start ****************/
+@import url("https://fonts.googleapis.com/css?family=Aclonica|Poppins:300,400,500,600&display=swap");
+/* line 2, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_extends.scss */
+
+
+/**************** common css start ****************/
+/* line 3, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_common.scss */
+body {
+  font-family: "Aclonica", sans-serif;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+/* line 87, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_common.scss */
+h1, h2, h3, h4, h5, h6 {
+  color: #fff;
+  font-family: "Aclonica", sans-serif;
+}
+
+/* line 247, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_common.scss */
+.body_bg {
+  background-image: url("../img/body_bg.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/**************** upcomming war css start ****************/
+/* line 2, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_upcomming_war.scss */
+.upcomming_war {
+  background-image: url(../img/dragmount2.webm);
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+/* line 7, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_upcomming_war.scss */
+.upcomming_war .upcomming_war_iner {
+  height: 725px;
+}
+
+/* line 25, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_upcomming_war.scss */
+.upcomming_war span {
+  display: block;
+  font-size: 20px;
+  color: white;
+}
+
+/* line 30, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_upcomming_war.scss */
+.upcomming_war #days {
+  font-size: 48px;
+  color: #ffffff;
+}
+
+/* line 34, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_upcomming_war.scss */
+.upcomming_war #hours {
+  font-size: 48px;
+  color: #fff;
+}
+
