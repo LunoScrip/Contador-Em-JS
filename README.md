@@ -2,7 +2,7 @@
 
 ![alt text](img.png)
 
-Basta modificar: 
+modificar: 
 ~~~js
  function makeTimer() {
     //		var endTime = new Date("29 April 2018 9:56:00 GMT+01:00");	exemplo
