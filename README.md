@@ -1,5 +1,7 @@
 # Contador-Em-JS
 
+![alt text](img.png)
+
 Basta modificar: 
 ~~~js
  function makeTimer() {
